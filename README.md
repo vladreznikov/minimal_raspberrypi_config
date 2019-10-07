@@ -1,0 +1,1 @@
+# minimal_raspberrypi_config
